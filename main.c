@@ -3,17 +3,17 @@
 #include "usart.h"
 #include "LED.h"
 /************************************************
- ALIENTEK ս��STM32F103������ʵ��0-1
- Template����ģ��-�½������½�ʹ��-HAL��汾
- ����֧�֣�www.openedv.com
- �Ա����̣� http://eboard.taobao.com 
- ��ע΢�Ź���ƽ̨΢�źţ�"����ԭ��"����ѻ�ȡSTM32���ϡ�
- �������������ӿƼ����޹�˾  
- ���ߣ�����ԭ�� @ALIENTEK
+ ALIENTEK 战舰STM32F103开发板实验0-1
+ Template工程模板-新建工程章节使用-HAL库版本
+ 技术支持：www.openedv.com
+ 淘宝店铺： http://eboard.taobao.com 
+ 关注微信公众平台微信号："正点原子"，免费获取STM32资料。
+ 广州市星翼电子科技有限公司  
+ 作者：正点原子 @ALIENTEK
 ************************************************/
 
 
-/***ע�⣺�����̺ͽ̳��е��½�����3.3С�ڶ�Ӧ***/
+/***注意：本工程和教程中的新建工程3.3小节对应***/
 
 int main(void)
 {
