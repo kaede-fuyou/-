@@ -30,8 +30,7 @@ int main(void)
 		LED_Light(1);
 		delay_ms(500);
 		LED_Toggle(0);
-		LED_Toggle(1);
-		delay_ms(500);
+		
 		
 	}
 }
